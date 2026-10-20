@@ -1,0 +1,8 @@
+[package]
+name = "j-bignums"
+version = "0.0.1"
+edition = "2024"
+authors = ["Alec Clawson <awesomealec1@gmail.com>"]
+
+[dependencies]
+anyhow = "1.0.104"
